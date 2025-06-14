@@ -8,7 +8,12 @@ An AI-powered system that automates camera angle selection in tennis broadcasts 
 
 > A real-time OpenCV interface displays the three camera feeds as thumbnails and highlights the predicted main view.
 
-*(Add screenshot or GIF here later)*
+<img src="assets/ui_screenshot1.png" width="600"/>
+<br/>
+<img src="assets/ui_screenshot2.png" width="600"/>
+<br/>
+<img src="assets/ui_screenshot3.png" width="600"/>
+
 
 ---
 
