@@ -1,0 +1,21 @@
+# Ignore large data
+data/
+*.mp4
+*.avi
+*.hevc
+*.mkv
+*.xlsx
+*.csv
+*.joblib
+
+# Ignore model weights (optional)
+*.pt
+
+# Python cache & notebook junk
+__pycache__/
+.ipynb_checkpoints/
+
+# OS-specific files
+*.zip
+.DS_Store
+Thumbs.db
